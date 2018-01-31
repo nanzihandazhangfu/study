@@ -14,3 +14,7 @@ public static String getInfr(String age){
 public Integer setCount(Integer i){
 	return i;
 }
+public String getName(String name){
+return this.name=name;
+}
+
