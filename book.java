@@ -10,3 +10,7 @@ public static void main(Stirng[] args){
 public static String getInfr(String age){
 	return age.substring(0,age.length-2);
 }
+
+public Integer setCount(Integer i){
+	return i;
+}
