@@ -1,5 +1,3 @@
-//hwhfajiwojfeiweff
-//fewfoeiwjfoi
 public class book{
 public static void main(Stirng[] args){
 	String age="sfreogjrioegjioer";
@@ -16,5 +14,11 @@ public Integer setCount(Integer i){
 }
 public String getName(String name){
 return this.name=name;
+
+public boolean getOffset()
+{
+int s=20;
+boolean flag=false;
+
 }
 
