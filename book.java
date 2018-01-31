@@ -14,3 +14,11 @@ public static String getInfr(String age){
 public Integer setCount(Integer i){
 	return i;
 }
+
+public boolean getOffset()
+{
+int s=20;
+boolean flag=false;
+
+}
+
